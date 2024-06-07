@@ -1,0 +1,962 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|c:\\users\\admin\\onedrive - hanoi university of science and technology\\documents\\nashtechexercise\\nashtechexercise\\quangnn_midassignment\\quangnn_midassignment\\dtos\\requestdto\\bookrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|solutionrelative:quangnn_midassignment\\dtos\\requestdto\\bookrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5867FA-44B8-4060-80A9-6E3F5FEE3A70}|Infrastructure\\Infrastructure.csproj|c:\\users\\admin\\onedrive - hanoi university of science and technology\\documents\\nashtechexercise\\nashtechexercise\\quangnn_midassignment\\infrastructure\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5867FA-44B8-4060-80A9-6E3F5FEE3A70}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|c:\\users\\admin\\onedrive - hanoi university of science and technology\\documents\\nashtechexercise\\nashtechexercise\\quangnn_midassignment\\quangnn_midassignment\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|solutionrelative:quangnn_midassignment\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|c:\\users\\admin\\onedrive - hanoi university of science and technology\\documents\\nashtechexercise\\nashtechexercise\\quangnn_midassignment\\quangnn_midassignment\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|solutionrelative:quangnn_midassignment\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5867FA-44B8-4060-80A9-6E3F5FEE3A70}|Infrastructure\\Infrastructure.csproj|c:\\users\\admin\\onedrive - hanoi university of science and technology\\documents\\nashtechexercise\\nashtechexercise\\quangnn_midassignment\\infrastructure\\genericrepository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5867FA-44B8-4060-80A9-6E3F5FEE3A70}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\genericrepository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|c:\\users\\admin\\onedrive - hanoi university of science and technology\\documents\\nashtechexercise\\nashtechexercise\\quangnn_midassignment\\quangnn_midassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|solutionrelative:quangnn_midassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|c:\\users\\admin\\onedrive - hanoi university of science and technology\\documents\\nashtechexercise\\nashtechexercise\\quangnn_midassignment\\quangnn_midassignment\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|solutionrelative:quangnn_midassignment\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|c:\\users\\admin\\onedrive - hanoi university of science and technology\\documents\\nashtechexercise\\nashtechexercise\\quangnn_midassignment\\quangnn_midassignment\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|solutionrelative:quangnn_midassignment\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|c:\\users\\admin\\onedrive - hanoi university of science and technology\\documents\\nashtechexercise\\nashtechexercise\\quangnn_midassignment\\quangnn_midassignment\\controllers\\borrowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|solutionrelative:quangnn_midassignment\\controllers\\borrowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5867FA-44B8-4060-80A9-6E3F5FEE3A70}|Infrastructure\\Infrastructure.csproj|c:\\users\\admin\\onedrive - hanoi university of science and technology\\documents\\nashtechexercise\\nashtechexercise\\quangnn_midassignment\\infrastructure\\genericmodel\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5867FA-44B8-4060-80A9-6E3F5FEE3A70}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\genericmodel\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|c:\\users\\admin\\onedrive - hanoi university of science and technology\\documents\\nashtechexercise\\nashtechexercise\\quangnn_midassignment\\quangnn_midassignment\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|solutionrelative:quangnn_midassignment\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|c:\\users\\admin\\onedrive - hanoi university of science and technology\\documents\\nashtechexercise\\nashtechexercise\\quangnn_midassignment\\quangnn_midassignment\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|solutionrelative:quangnn_midassignment\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|c:\\users\\admin\\onedrive - hanoi university of science and technology\\documents\\nashtechexercise\\nashtechexercise\\quangnn_midassignment\\quangnn_midassignment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|solutionrelative:quangnn_midassignment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|c:\\users\\admin\\onedrive - hanoi university of science and technology\\documents\\nashtechexercise\\nashtechexercise\\quangnn_midassignment\\quangnn_midassignment\\quangnn_midassignment.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|solutionrelative:quangnn_midassignment\\quangnn_midassignment.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|c:\\users\\admin\\onedrive - hanoi university of science and technology\\documents\\nashtechexercise\\nashtechexercise\\quangnn_midassignment\\quangnn_midassignment\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|solutionrelative:quangnn_midassignment\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|c:\\users\\admin\\onedrive - hanoi university of science and technology\\documents\\nashtechexercise\\nashtechexercise\\quangnn_midassignment\\quangnn_midassignment\\services\\borrowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|solutionrelative:quangnn_midassignment\\services\\borrowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|c:\\users\\admin\\onedrive - hanoi university of science and technology\\documents\\nashtechexercise\\nashtechexercise\\quangnn_midassignment\\quangnn_midassignment\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|solutionrelative:quangnn_midassignment\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|c:\\users\\admin\\onedrive - hanoi university of science and technology\\documents\\nashtechexercise\\nashtechexercise\\quangnn_midassignment\\quangnn_midassignment\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|solutionrelative:quangnn_midassignment\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|c:\\users\\admin\\onedrive - hanoi university of science and technology\\documents\\nashtechexercise\\nashtechexercise\\quangnn_midassignment\\quangnn_midassignment\\dtos\\responsedto\\bookresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|solutionrelative:quangnn_midassignment\\dtos\\responsedto\\bookresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|c:\\users\\admin\\onedrive - hanoi university of science and technology\\documents\\nashtechexercise\\nashtechexercise\\quangnn_midassignment\\quangnn_midassignment\\services\\bookborrowingrequestdetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|solutionrelative:quangnn_midassignment\\services\\bookborrowingrequestdetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5867FA-44B8-4060-80A9-6E3F5FEE3A70}|Infrastructure\\Infrastructure.csproj|c:\\users\\admin\\onedrive - hanoi university of science and technology\\documents\\nashtechexercise\\nashtechexercise\\quangnn_midassignment\\infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5867FA-44B8-4060-80A9-6E3F5FEE3A70}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|c:\\users\\admin\\onedrive - hanoi university of science and technology\\documents\\nashtechexercise\\nashtechexercise\\quangnn_midassignment\\quangnn_midassignment\\services\\bookborrowingrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|solutionrelative:quangnn_midassignment\\services\\bookborrowingrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|c:\\users\\admin\\onedrive - hanoi university of science and technology\\documents\\nashtechexercise\\nashtechexercise\\quangnn_midassignment\\quangnn_midassignment\\dtos\\requestdto\\bookborrowrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|solutionrelative:quangnn_midassignment\\dtos\\requestdto\\bookborrowrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|c:\\users\\admin\\onedrive - hanoi university of science and technology\\documents\\nashtechexercise\\nashtechexercise\\quangnn_midassignment\\quangnn_midassignment\\services\\ibookborrowingrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|solutionrelative:quangnn_midassignment\\services\\ibookborrowingrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|c:\\users\\admin\\onedrive - hanoi university of science and technology\\documents\\nashtechexercise\\nashtechexercise\\quangnn_midassignment\\quangnn_midassignment\\dtos\\requestdto\\approverejectrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|solutionrelative:quangnn_midassignment\\dtos\\requestdto\\approverejectrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5867FA-44B8-4060-80A9-6E3F5FEE3A70}|Infrastructure\\Infrastructure.csproj|c:\\users\\admin\\onedrive - hanoi university of science and technology\\documents\\nashtechexercise\\nashtechexercise\\quangnn_midassignment\\infrastructure\\repositories\\borrowrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5867FA-44B8-4060-80A9-6E3F5FEE3A70}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\borrowrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5867FA-44B8-4060-80A9-6E3F5FEE3A70}|Infrastructure\\Infrastructure.csproj|c:\\users\\admin\\onedrive - hanoi university of science and technology\\documents\\nashtechexercise\\nashtechexercise\\quangnn_midassignment\\infrastructure\\repositories\\bookborrowingrequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5867FA-44B8-4060-80A9-6E3F5FEE3A70}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\bookborrowingrequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5867FA-44B8-4060-80A9-6E3F5FEE3A70}|Infrastructure\\Infrastructure.csproj|c:\\users\\admin\\onedrive - hanoi university of science and technology\\documents\\nashtechexercise\\nashtechexercise\\quangnn_midassignment\\infrastructure\\repositories\\iborrowrepositoy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5867FA-44B8-4060-80A9-6E3F5FEE3A70}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\iborrowrepositoy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|c:\\users\\admin\\onedrive - hanoi university of science and technology\\documents\\nashtechexercise\\nashtechexercise\\quangnn_midassignment\\quangnn_midassignment\\services\\iborrowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|solutionrelative:quangnn_midassignment\\services\\iborrowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|c:\\users\\admin\\onedrive - hanoi university of science and technology\\documents\\nashtechexercise\\nashtechexercise\\quangnn_midassignment\\quangnn_midassignment\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|solutionrelative:quangnn_midassignment\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|c:\\users\\admin\\onedrive - hanoi university of science and technology\\documents\\nashtechexercise\\nashtechexercise\\quangnn_midassignment\\quangnn_midassignment\\dtos\\responsedto\\bookborrowingrequestresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|solutionrelative:quangnn_midassignment\\dtos\\responsedto\\bookborrowingrequestresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5867FA-44B8-4060-80A9-6E3F5FEE3A70}|Infrastructure\\Infrastructure.csproj|c:\\users\\admin\\onedrive - hanoi university of science and technology\\documents\\nashtechexercise\\nashtechexercise\\quangnn_midassignment\\infrastructure\\repositories\\ibookborrowingrequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5867FA-44B8-4060-80A9-6E3F5FEE3A70}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\ibookborrowingrequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5867FA-44B8-4060-80A9-6E3F5FEE3A70}|Infrastructure\\Infrastructure.csproj|c:\\users\\admin\\onedrive - hanoi university of science and technology\\documents\\nashtechexercise\\nashtechexercise\\quangnn_midassignment\\infrastructure\\models\\bookborrowingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5867FA-44B8-4060-80A9-6E3F5FEE3A70}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\models\\bookborrowingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5867FA-44B8-4060-80A9-6E3F5FEE3A70}|Infrastructure\\Infrastructure.csproj|c:\\users\\admin\\onedrive - hanoi university of science and technology\\documents\\nashtechexercise\\nashtechexercise\\quangnn_midassignment\\infrastructure\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5867FA-44B8-4060-80A9-6E3F5FEE3A70}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5867FA-44B8-4060-80A9-6E3F5FEE3A70}|Infrastructure\\Infrastructure.csproj|c:\\users\\admin\\onedrive - hanoi university of science and technology\\documents\\nashtechexercise\\nashtechexercise\\quangnn_midassignment\\infrastructure\\models\\bookborrowingrequestdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5867FA-44B8-4060-80A9-6E3F5FEE3A70}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\models\\bookborrowingrequestdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|c:\\users\\admin\\onedrive - hanoi university of science and technology\\documents\\nashtechexercise\\nashtechexercise\\quangnn_midassignment\\quangnn_midassignment\\dtos\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|solutionrelative:quangnn_midassignment\\dtos\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|c:\\users\\admin\\onedrive - hanoi university of science and technology\\documents\\nashtechexercise\\nashtechexercise\\quangnn_midassignment\\quangnn_midassignment\\dtos\\automapperrokies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|solutionrelative:quangnn_midassignment\\dtos\\automapperrokies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5867FA-44B8-4060-80A9-6E3F5FEE3A70}|Infrastructure\\Infrastructure.csproj|c:\\users\\admin\\onedrive - hanoi university of science and technology\\documents\\nashtechexercise\\nashtechexercise\\quangnn_midassignment\\infrastructure\\models\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5867FA-44B8-4060-80A9-6E3F5FEE3A70}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\models\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5867FA-44B8-4060-80A9-6E3F5FEE3A70}|Infrastructure\\Infrastructure.csproj|c:\\users\\admin\\onedrive - hanoi university of science and technology\\documents\\nashtechexercise\\nashtechexercise\\quangnn_midassignment\\infrastructure\\genericrepository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5867FA-44B8-4060-80A9-6E3F5FEE3A70}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\genericrepository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C5B89CF-AF7A-4D92-903A-319215D4BC27}|Common\\Common.csproj|c:\\users\\admin\\onedrive - hanoi university of science and technology\\documents\\nashtechexercise\\nashtechexercise\\quangnn_midassignment\\common\\generalresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C5B89CF-AF7A-4D92-903A-319215D4BC27}|Common\\Common.csproj|solutionrelative:common\\generalresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|c:\\users\\admin\\onedrive - hanoi university of science and technology\\documents\\nashtechexercise\\nashtechexercise\\quangnn_midassignment\\quangnn_midassignment\\dtos\\responsedto\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|solutionrelative:quangnn_midassignment\\dtos\\responsedto\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|c:\\users\\admin\\onedrive - hanoi university of science and technology\\documents\\nashtechexercise\\nashtechexercise\\quangnn_midassignment\\quangnn_midassignment\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|solutionrelative:quangnn_midassignment\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|c:\\users\\admin\\onedrive - hanoi university of science and technology\\documents\\nashtechexercise\\nashtechexercise\\quangnn_midassignment\\quangnn_midassignment\\dtos\\requestdto\\categoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|solutionrelative:quangnn_midassignment\\dtos\\requestdto\\categoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|c:\\users\\admin\\onedrive - hanoi university of science and technology\\documents\\nashtechexercise\\nashtechexercise\\quangnn_midassignment\\quangnn_midassignment\\dtos\\responsedto\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|solutionrelative:quangnn_midassignment\\dtos\\responsedto\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|c:\\users\\admin\\onedrive - hanoi university of science and technology\\documents\\nashtechexercise\\nashtechexercise\\quangnn_midassignment\\quangnn_midassignment\\dtos\\requestdto\\authrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|solutionrelative:quangnn_midassignment\\dtos\\requestdto\\authrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5867FA-44B8-4060-80A9-6E3F5FEE3A70}|Infrastructure\\Infrastructure.csproj|c:\\users\\admin\\onedrive - hanoi university of science and technology\\documents\\nashtechexercise\\nashtechexercise\\quangnn_midassignment\\infrastructure\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5867FA-44B8-4060-80A9-6E3F5FEE3A70}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|c:\\users\\admin\\onedrive - hanoi university of science and technology\\documents\\nashtechexercise\\nashtechexercise\\quangnn_midassignment\\quangnn_midassignment\\dtos\\requestdto\\userrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|solutionrelative:quangnn_midassignment\\dtos\\requestdto\\userrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5867FA-44B8-4060-80A9-6E3F5FEE3A70}|Infrastructure\\Infrastructure.csproj|c:\\users\\admin\\onedrive - hanoi university of science and technology\\documents\\nashtechexercise\\nashtechexercise\\quangnn_midassignment\\infrastructure\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5867FA-44B8-4060-80A9-6E3F5FEE3A70}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5867FA-44B8-4060-80A9-6E3F5FEE3A70}|Infrastructure\\Infrastructure.csproj|c:\\users\\admin\\onedrive - hanoi university of science and technology\\documents\\nashtechexercise\\nashtechexercise\\quangnn_midassignment\\infrastructure\\models\\roleenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5867FA-44B8-4060-80A9-6E3F5FEE3A70}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\models\\roleenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5867FA-44B8-4060-80A9-6E3F5FEE3A70}|Infrastructure\\Infrastructure.csproj|c:\\users\\admin\\onedrive - hanoi university of science and technology\\documents\\nashtechexercise\\nashtechexercise\\quangnn_midassignment\\infrastructure\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5867FA-44B8-4060-80A9-6E3F5FEE3A70}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5867FA-44B8-4060-80A9-6E3F5FEE3A70}|Infrastructure\\Infrastructure.csproj|c:\\users\\admin\\onedrive - hanoi university of science and technology\\documents\\nashtechexercise\\nashtechexercise\\quangnn_midassignment\\infrastructure\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5867FA-44B8-4060-80A9-6E3F5FEE3A70}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5867FA-44B8-4060-80A9-6E3F5FEE3A70}|Infrastructure\\Infrastructure.csproj|c:\\users\\admin\\onedrive - hanoi university of science and technology\\documents\\nashtechexercise\\nashtechexercise\\quangnn_midassignment\\infrastructure\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5867FA-44B8-4060-80A9-6E3F5FEE3A70}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|c:\\users\\admin\\onedrive - hanoi university of science and technology\\documents\\nashtechexercise\\nashtechexercise\\quangnn_midassignment\\quangnn_midassignment\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|solutionrelative:quangnn_midassignment\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|c:\\users\\admin\\onedrive - hanoi university of science and technology\\documents\\nashtechexercise\\nashtechexercise\\quangnn_midassignment\\quangnn_midassignment\\services\\ibookborrowingrequestdetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F4D565-E612-4205-BC40-2FE6E92A9D47}|QuangNN_MidAssignment\\QuangNN_MidAssignment.csproj|solutionrelative:quangnn_midassignment\\services\\ibookborrowingrequestdetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5867FA-44B8-4060-80A9-6E3F5FEE3A70}|Infrastructure\\Infrastructure.csproj|c:\\users\\admin\\onedrive - hanoi university of science and technology\\documents\\nashtechexercise\\nashtechexercise\\quangnn_midassignment\\infrastructure\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5867FA-44B8-4060-80A9-6E3F5FEE3A70}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5867FA-44B8-4060-80A9-6E3F5FEE3A70}|Infrastructure\\Infrastructure.csproj|c:\\users\\admin\\onedrive - hanoi university of science and technology\\documents\\nashtechexercise\\nashtechexercise\\quangnn_midassignment\\infrastructure\\repositories\\ibookborrowingrequestdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5867FA-44B8-4060-80A9-6E3F5FEE3A70}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\ibookborrowingrequestdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C5B89CF-AF7A-4D92-903A-319215D4BC27}|Common\\Common.csproj|c:\\users\\admin\\onedrive - hanoi university of science and technology\\documents\\nashtechexercise\\nashtechexercise\\quangnn_midassignment\\common\\generalvalidationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C5B89CF-AF7A-4D92-903A-319215D4BC27}|Common\\Common.csproj|solutionrelative:common\\generalvalidationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C5B89CF-AF7A-4D92-903A-319215D4BC27}|Common\\Common.csproj|c:\\users\\admin\\onedrive - hanoi university of science and technology\\documents\\nashtechexercise\\nashtechexercise\\quangnn_midassignment\\common\\genericgenenaresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C5B89CF-AF7A-4D92-903A-319215D4BC27}|Common\\Common.csproj|solutionrelative:common\\genericgenenaresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 693,
+          "SelectedChildIndex": 44,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "QuangNN_MidAssignment.http",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\QuangNN_MidAssignment.http",
+              "RelativeDocumentMoniker": "QuangNN_MidAssignment\\QuangNN_MidAssignment.http",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\QuangNN_MidAssignment.http",
+              "RelativeToolTip": "QuangNN_MidAssignment\\QuangNN_MidAssignment.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-06-06T19:09:19.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BookBorrowingRequestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\Infrastructure\\Repositories\\BookBorrowingRequestRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\BookBorrowingRequestRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\Infrastructure\\Repositories\\BookBorrowingRequestRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\BookBorrowingRequestRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAswBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:16:33.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BorrowController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\Controllers\\BorrowController.cs",
+              "RelativeDocumentMoniker": "QuangNN_MidAssignment\\Controllers\\BorrowController.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\Controllers\\BorrowController.cs",
+              "RelativeToolTip": "QuangNN_MidAssignment\\Controllers\\BorrowController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAwwDMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T05:59:06.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IBookBorrowingRequestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\Infrastructure\\Repositories\\IBookBorrowingRequestRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\IBookBorrowingRequestRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\Infrastructure\\Repositories\\IBookBorrowingRequestRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\IBookBorrowingRequestRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T04:17:48.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\services\\IBookService.cs",
+              "RelativeDocumentMoniker": "QuangNN_MidAssignment\\services\\IBookService.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\services\\IBookService.cs",
+              "RelativeToolTip": "QuangNN_MidAssignment\\services\\IBookService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T04:14:20.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAnwBQAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T08:01:32.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\Infrastructure\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\Infrastructure\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:52:23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\Infrastructure\\Repositories\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\Infrastructure\\Repositories\\IBookRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\IBookRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T07:58:19.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "RoleEnum.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\Infrastructure\\Models\\RoleEnum.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Models\\RoleEnum.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\Infrastructure\\Models\\RoleEnum.cs",
+              "RelativeToolTip": "Infrastructure\\Models\\RoleEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:43:57.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "QuangNN_MidAssignment\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\Controllers\\UserController.cs",
+              "RelativeToolTip": "QuangNN_MidAssignment\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAswHYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T15:19:29.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\services\\IUserService.cs",
+              "RelativeDocumentMoniker": "QuangNN_MidAssignment\\services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\services\\IUserService.cs",
+              "RelativeToolTip": "QuangNN_MidAssignment\\services\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:27:22.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\Infrastructure\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\Infrastructure\\Models\\User.cs",
+              "RelativeToolTip": "Infrastructure\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:26:03.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\Infrastructure\\GenericRepository\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\GenericRepository\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\Infrastructure\\GenericRepository\\IGenericRepository.cs",
+              "RelativeToolTip": "Infrastructure\\GenericRepository\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T03:28:47.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\Infrastructure\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\Infrastructure\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T03:21:03.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "QuangNN_MidAssignment\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "QuangNN_MidAssignment\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwFcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T03:09:40.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BookBorrowingRequestDetailsService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\services\\BookBorrowingRequestDetailsService.cs",
+              "RelativeDocumentMoniker": "QuangNN_MidAssignment\\services\\BookBorrowingRequestDetailsService.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\services\\BookBorrowingRequestDetailsService.cs",
+              "RelativeToolTip": "QuangNN_MidAssignment\\services\\BookBorrowingRequestDetailsService.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAmwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T02:55:22.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AuthRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\DTOs\\requestDTO\\AuthRequestDto.cs",
+              "RelativeDocumentMoniker": "QuangNN_MidAssignment\\DTOs\\requestDTO\\AuthRequestDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\DTOs\\requestDTO\\AuthRequestDto.cs",
+              "RelativeToolTip": "QuangNN_MidAssignment\\DTOs\\requestDTO\\AuthRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T02:52:05.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "UserRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\DTOs\\requestDTO\\UserRequestDto.cs",
+              "RelativeDocumentMoniker": "QuangNN_MidAssignment\\DTOs\\requestDTO\\UserRequestDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\DTOs\\requestDTO\\UserRequestDto.cs",
+              "RelativeToolTip": "QuangNN_MidAssignment\\DTOs\\requestDTO\\UserRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T02:51:57.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "IBookBorrowingRequestDetailsService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\services\\IBookBorrowingRequestDetailsService.cs",
+              "RelativeDocumentMoniker": "QuangNN_MidAssignment\\services\\IBookBorrowingRequestDetailsService.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\services\\IBookBorrowingRequestDetailsService.cs",
+              "RelativeToolTip": "QuangNN_MidAssignment\\services\\IBookBorrowingRequestDetailsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T02:50:21.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ApproveRejectRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\DTOs\\requestDTO\\ApproveRejectRequestDto.cs",
+              "RelativeDocumentMoniker": "QuangNN_MidAssignment\\DTOs\\requestDTO\\ApproveRejectRequestDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\DTOs\\requestDTO\\ApproveRejectRequestDto.cs",
+              "RelativeToolTip": "QuangNN_MidAssignment\\DTOs\\requestDTO\\ApproveRejectRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T02:49:40.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BookBorrowingRequestService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\services\\BookBorrowingRequestService.cs",
+              "RelativeDocumentMoniker": "QuangNN_MidAssignment\\services\\BookBorrowingRequestService.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\services\\BookBorrowingRequestService.cs",
+              "RelativeToolTip": "QuangNN_MidAssignment\\services\\BookBorrowingRequestService.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAA4wGgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T02:48:15.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IBookBorrowingRequestService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\services\\IBookBorrowingRequestService.cs",
+              "RelativeDocumentMoniker": "QuangNN_MidAssignment\\services\\IBookBorrowingRequestService.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\services\\IBookBorrowingRequestService.cs",
+              "RelativeToolTip": "QuangNN_MidAssignment\\services\\IBookBorrowingRequestService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T02:48:10.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\Infrastructure\\GenericModel\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\GenericModel\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\Infrastructure\\GenericModel\\BaseEntity.cs",
+              "RelativeToolTip": "Infrastructure\\GenericModel\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T02:44:00.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\Infrastructure\\GenericRepository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\GenericRepository\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\Infrastructure\\GenericRepository\\GenericRepository.cs",
+              "RelativeToolTip": "Infrastructure\\GenericRepository\\GenericRepository.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAswJQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T02:43:05.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CategoryRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\DTOs\\requestDTO\\CategoryRequestDto.cs",
+              "RelativeDocumentMoniker": "QuangNN_MidAssignment\\DTOs\\requestDTO\\CategoryRequestDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\DTOs\\requestDTO\\CategoryRequestDto.cs",
+              "RelativeToolTip": "QuangNN_MidAssignment\\DTOs\\requestDTO\\CategoryRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T02:33:00.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\Infrastructure\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\Infrastructure\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T02:10:44.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\services\\UserService.cs",
+              "RelativeDocumentMoniker": "QuangNN_MidAssignment\\services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\services\\UserService.cs",
+              "RelativeToolTip": "QuangNN_MidAssignment\\services\\UserService.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAWwFQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T02:00:50.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\DTOs\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "QuangNN_MidAssignment\\DTOs\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\DTOs\\MappingProfile.cs",
+              "RelativeToolTip": "QuangNN_MidAssignment\\DTOs\\MappingProfile.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAMwBsAAACBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T02:00:00.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AutoMapperRokies.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\DTOs\\AutoMapperRokies.cs",
+              "RelativeDocumentMoniker": "QuangNN_MidAssignment\\DTOs\\AutoMapperRokies.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\DTOs\\AutoMapperRokies.cs",
+              "RelativeToolTip": "QuangNN_MidAssignment\\DTOs\\AutoMapperRokies.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAMwA8AAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T01:54:50.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "QuangNN_MidAssignment\\services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\services\\CategoryService.cs",
+              "RelativeToolTip": "QuangNN_MidAssignment\\services\\CategoryService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T15:54:29.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\services\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "QuangNN_MidAssignment\\services\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\services\\ICategoryService.cs",
+              "RelativeToolTip": "QuangNN_MidAssignment\\services\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T15:54:21.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "QuangNN_MidAssignment\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\Program.cs",
+              "RelativeToolTip": "QuangNN_MidAssignment\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T15:30:33.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\appsettings.json",
+              "RelativeDocumentMoniker": "QuangNN_MidAssignment\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\appsettings.json",
+              "RelativeToolTip": "QuangNN_MidAssignment\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-04T14:13:13.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\Infrastructure\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\Infrastructure\\Models\\Category.cs",
+              "RelativeToolTip": "Infrastructure\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T07:24:07.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UserResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\DTOs\\responseDTO\\UserResponseDto.cs",
+              "RelativeDocumentMoniker": "QuangNN_MidAssignment\\DTOs\\responseDTO\\UserResponseDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\DTOs\\responseDTO\\UserResponseDto.cs",
+              "RelativeToolTip": "QuangNN_MidAssignment\\DTOs\\responseDTO\\UserResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T07:22:04.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AuthResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\DTOs\\responseDTO\\AuthResponseDto.cs",
+              "RelativeDocumentMoniker": "QuangNN_MidAssignment\\DTOs\\responseDTO\\AuthResponseDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\DTOs\\responseDTO\\AuthResponseDto.cs",
+              "RelativeToolTip": "QuangNN_MidAssignment\\DTOs\\responseDTO\\AuthResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T07:22:02.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BookBorrowingRequestResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\DTOs\\responseDTO\\BookBorrowingRequestResponseDto.cs",
+              "RelativeDocumentMoniker": "QuangNN_MidAssignment\\DTOs\\responseDTO\\BookBorrowingRequestResponseDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\DTOs\\responseDTO\\BookBorrowingRequestResponseDto.cs",
+              "RelativeToolTip": "QuangNN_MidAssignment\\DTOs\\responseDTO\\BookBorrowingRequestResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T07:21:59.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BookResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\DTOs\\responseDTO\\BookResponseDto.cs",
+              "RelativeDocumentMoniker": "QuangNN_MidAssignment\\DTOs\\responseDTO\\BookResponseDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\DTOs\\responseDTO\\BookResponseDto.cs",
+              "RelativeToolTip": "QuangNN_MidAssignment\\DTOs\\responseDTO\\BookResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAgwA0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T07:21:35.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BookBorrowRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\DTOs\\requestDTO\\BookBorrowRequestDto.cs",
+              "RelativeDocumentMoniker": "QuangNN_MidAssignment\\DTOs\\requestDTO\\BookBorrowRequestDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\DTOs\\requestDTO\\BookBorrowRequestDto.cs",
+              "RelativeToolTip": "QuangNN_MidAssignment\\DTOs\\requestDTO\\BookBorrowRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:05:01.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "GeneralValidationResult.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\Common\\GeneralValidationResult.cs",
+              "RelativeDocumentMoniker": "Common\\GeneralValidationResult.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\Common\\GeneralValidationResult.cs",
+              "RelativeToolTip": "Common\\GeneralValidationResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T12:42:05.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "GenericGenenaResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\Common\\GenericGenenaResponse.cs",
+              "RelativeDocumentMoniker": "Common\\GenericGenenaResponse.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\Common\\GenericGenenaResponse.cs",
+              "RelativeToolTip": "Common\\GenericGenenaResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T12:41:59.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "LibraryContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\Infrastructure\\Models\\LibraryContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Models\\LibraryContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\Infrastructure\\Models\\LibraryContext.cs",
+              "RelativeToolTip": "Infrastructure\\Models\\LibraryContext.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAYwDgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T12:32:27.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\Infrastructure\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\Infrastructure\\Models\\Book.cs",
+              "RelativeToolTip": "Infrastructure\\Models\\Book.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAswAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T12:28:55.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\DTOs\\requestDTO\\BookRequestDto.cs",
+              "RelativeDocumentMoniker": "QuangNN_MidAssignment\\DTOs\\requestDTO\\BookRequestDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\DTOs\\requestDTO\\BookRequestDto.cs",
+              "RelativeToolTip": "QuangNN_MidAssignment\\DTOs\\requestDTO\\BookRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T12:09:55.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "GeneralResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\Common\\GeneralResponse.cs",
+              "RelativeDocumentMoniker": "Common\\GeneralResponse.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\Common\\GeneralResponse.cs",
+              "RelativeToolTip": "Common\\GeneralResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAxwBEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:26:26.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BookBorrowingRequestDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\Infrastructure\\Models\\BookBorrowingRequestDetails.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Models\\BookBorrowingRequestDetails.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\Infrastructure\\Models\\BookBorrowingRequestDetails.cs",
+              "RelativeToolTip": "Infrastructure\\Models\\BookBorrowingRequestDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:31:07.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BorrowRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\Infrastructure\\Repositories\\BorrowRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\BorrowRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\Infrastructure\\Repositories\\BorrowRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\BorrowRepository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAADgvyEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:29:41.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IBorrowRepositoy.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\Infrastructure\\Repositories\\IBorrowRepositoy.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\IBorrowRepositoy.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\Infrastructure\\Repositories\\IBorrowRepositoy.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\IBorrowRepositoy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:29:27.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "IBookBorrowingRequestDetailsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\Infrastructure\\Repositories\\IBookBorrowingRequestDetailsRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\IBookBorrowingRequestDetailsRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\Infrastructure\\Repositories\\IBookBorrowingRequestDetailsRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\IBookBorrowingRequestDetailsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:29:10.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\Infrastructure\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\Infrastructure\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\BookRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:29:10.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\services\\BookService.cs",
+              "RelativeDocumentMoniker": "QuangNN_MidAssignment\\services\\BookService.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\services\\BookService.cs",
+              "RelativeToolTip": "QuangNN_MidAssignment\\services\\BookService.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwCsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:19:52.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "QuangNN_MidAssignment\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\Controllers\\BookController.cs",
+              "RelativeToolTip": "QuangNN_MidAssignment\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAtwEUAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:16:32.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BorrowService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\services\\BorrowService.cs",
+              "RelativeDocumentMoniker": "QuangNN_MidAssignment\\services\\BorrowService.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\services\\BorrowService.cs",
+              "RelativeToolTip": "QuangNN_MidAssignment\\services\\BorrowService.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAArwGcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:12:00.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IBorrowService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\services\\IBorrowService.cs",
+              "RelativeDocumentMoniker": "QuangNN_MidAssignment\\services\\IBorrowService.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\services\\IBorrowService.cs",
+              "RelativeToolTip": "QuangNN_MidAssignment\\services\\IBorrowService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:11:43.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BookBorrowingRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\Infrastructure\\Models\\BookBorrowingRequest.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Models\\BookBorrowingRequest.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\Infrastructure\\Models\\BookBorrowingRequest.cs",
+              "RelativeToolTip": "Infrastructure\\Models\\BookBorrowingRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T09:29:05.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "QuangNN_MidAssignment\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "QuangNN_MidAssignment\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T09:27:58.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\services\\AuthService.cs",
+              "RelativeDocumentMoniker": "QuangNN_MidAssignment\\services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\services\\AuthService.cs",
+              "RelativeToolTip": "QuangNN_MidAssignment\\services\\AuthService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAlwBsAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T09:27:37.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "QuangNN_MidAssignment\\services\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\NashtechExercise\\NashtechExercise\\QuangNN_MidAssignment\\QuangNN_MidAssignment\\services\\IAuthService.cs",
+              "RelativeToolTip": "QuangNN_MidAssignment\\services\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T09:27:21.429Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
